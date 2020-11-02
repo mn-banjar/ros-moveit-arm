@@ -13,3 +13,7 @@ control motors by joint state publisher GUI
 use Moveit
 
 ```roslaunch my_arm_xacro demo.launch```
+
+
+https://www.instructables.com/ROS-MoveIt-Robotic-Arm/
+https://www.instructables.com/ROS-MoveIt-Robotic-Arm-Part-2-Robot-Controller/
